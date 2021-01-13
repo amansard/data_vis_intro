@@ -5,7 +5,7 @@
 ## Get the Data:
 
 1. Get the data csv from
-   [kaggel.com covid-data](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+   [kaggel.com amazon-book-data](https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019)
 
 2. Add it to the data folder
 
