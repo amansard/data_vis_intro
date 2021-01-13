@@ -15,4 +15,11 @@
    windows: py -m venv venv
 
 2. Activate it:
+   windows: .\venv\Scripts\Activate.ps1
+
 3. Install Requirements:
+   pip install -r requirements.txt
+
+4. Before Running jupyter lab:
+   _point the iphuernel to the venv_
+   python -m ipykernel install --user --name=data_vis
